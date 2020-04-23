@@ -86,9 +86,13 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 
 * Checklist Test
 
+   kind of paper work.
+
 * Structured Walkthru Test
 
-* Simulation Test
+* Simulation Test (in-depth)
+
+   this is a actual test to be performed, participants' response to the simulated disaster are measured to evaluate the accuracy of the response actions & response time.
 
 * Parrallel Test
 
