@@ -43,10 +43,20 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 * DRP, Disaster Recovery Plan (Emergency Response & Post-Disaster Recovey)
 
   * Clustering, 叢集(距離近的同質系統，可作故障移轉的目標)
+  
+  * LB Clustring, 負載平衡的叢集
 
   * Backup & Off-Site Storage, 備援與異地備份
   
   * Remote Journaling & Electronic Vaulting, 遠端存儲備份與遠端離線備份
+  
+  * Data Redundancy (RAID)
+  
+     1. Mirroring, 鏡像 
+     
+     2. Ｐarity, 同位元運算
+     
+     3. Striping, 資料分區提升讀寫速度
 
   * Assets:
   
