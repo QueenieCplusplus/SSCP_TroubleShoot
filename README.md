@@ -96,6 +96,8 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 
 # Plan Review & Maintain
 
+# Related Reference
 
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf
 
 
