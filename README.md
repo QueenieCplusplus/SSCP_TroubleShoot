@@ -60,21 +60,21 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 
   * Assets:
   
-  (1) Data
+    (1) Data
   
-  (2) Information Sys (Log)
+    (2) Information Sys (Log)
   
-  (3) Network Devices
+    (3) Network Devices
   
-  (4) Tele Equip
+    (4) Tele Equip
   
-  (5) Facilities
+    (5) Facilities
+   
+    (6) Personnel
+   
+    (7) Cloud Provider
   
-  (6) Personnel
-  
-  (7) Cloud Provider
-  
-  (8) So on...
+    (8) So on...
 
 * BCP, Business Continuity Plan
 
