@@ -16,7 +16,7 @@ Once an incident is identified, there are some recommended actions:
 
 # Forensics Investigation Process
 
-# Mitigation 
+# Damage Mitigation 
 
 there are 2 concepts can be utilized to avoid critical business interruption:
 
