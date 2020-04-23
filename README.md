@@ -92,6 +92,8 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 
 * Parrallel Test
 
+   this test involves a significant cost to organization.
+
 * Full Interruption Test 
 
    this is highly disruptive and may cause a great disaster once the process can not be returned to the original status after testing.
