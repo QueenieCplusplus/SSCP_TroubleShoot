@@ -42,6 +42,24 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 
 * DRP, Disaster Recovery Plan (Emergency Response & Post-Disaster Recovey)
 
+  Assets:
+  
+  (1) Data
+  
+  (2) Information Sys (Log)
+  
+  (3) Network Devices
+  
+  (4) Tele Equip
+  
+  (5) Facilities
+  
+  (6) Personnel
+  
+  (7) Cloud Provider
+  
+  (8) So on...
+
 * BCP, Business Continuity Plan
 
   (1) MTD, Max Tolerable Downtime 最大可接受的無營運時間
