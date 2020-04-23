@@ -90,6 +90,10 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 
 * Simulation Test
 
+* Parrallel Test
+
+* Full Interruption Test 
+
 
 
 
