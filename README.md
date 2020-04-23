@@ -100,4 +100,6 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf
 
+http://shop.oreilly.com/product/9780596000455.do
+
 
