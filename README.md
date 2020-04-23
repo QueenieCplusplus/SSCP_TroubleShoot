@@ -93,6 +93,12 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 * Simulation Test (in-depth)
 
    this is a actual test to be performed, participants' response to the simulated disaster are measured to evaluate the accuracy of the response actions & response time.
+   
+   this test includes:
+   
+   - [x] file restore from back uo
+   
+   - [x] failover from primary sys to 2ndary sys. 
 
 * Parrallel Test
 
