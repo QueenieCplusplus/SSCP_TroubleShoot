@@ -6,7 +6,7 @@ In the incident response & recovery, administrator handles incident using consis
 
 Once an incident is identified, there are some recommended actions:
 
-- [x] damage recovery
+- [x] damage recovery (containment/Eradication)
 
 - [x] data interity
 
