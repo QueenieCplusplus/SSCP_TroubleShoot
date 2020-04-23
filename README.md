@@ -50,13 +50,13 @@ there are 2 concepts can be utilized to avoid critical business interruption:
   
   * Remote Journaling & Electronic Vaulting, 遠端存儲備份與遠端離線備份
   
-  * Data Redundancy (RAID)
+  * Data Redundancy 
   
      1. Mirroring, 鏡像 
      
      2. Ｐarity, 同位元運算
      
-     3. Striping, 資料分區提升讀寫速度
+     3. Striping, 資料分區提升讀寫速度 (RAID)
 
   * Assets:
   
