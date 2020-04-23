@@ -94,6 +94,8 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 
 * Full Interruption Test 
 
+   this is highly disruptive and may cause a great disaster once the process can not be returned to the original status after testing.
+
 # Plan Review & Maintain
 
 # Related Reference
