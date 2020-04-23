@@ -88,9 +88,11 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 
    kind of paper work.
 
-* Structured Walkthru Test
+* Structured Walkthru Test before any in-depth test performed
 
-* Simulation Test (in-depth)
+   it matters with scope of the plan and plan assumptions (reviews till correct), and it aims at detecting any deficiency in the plan.
+
+* Simulation Test (in-depth) || (thorough)
 
    this is a actual test to be performed, participants' response to the simulated disaster are measured to evaluate the accuracy of the response actions & response time.
    
