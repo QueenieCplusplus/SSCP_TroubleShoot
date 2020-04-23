@@ -44,6 +44,10 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 
 * BCP, Business Continuity Plan
 
+  (1) MTD, Max Tolerable Downtime 最大可接受的無營運時間
+  
+  (2) RTO, Recovery Time Objective 目標恢復時間
+
 
 
 
