@@ -56,6 +56,8 @@ there are 2 concepts can be utilized to avoid critical business interruption:
      
      2. Ｐarity, 同位元運算
      
+       to know the data is being lost or overwritten. It is protected without copy as Mirrowing.
+     
      3. Striping, 資料分區提升讀寫速度 (RAID)
 
   * Assets:
