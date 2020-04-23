@@ -42,7 +42,9 @@ there are 2 concepts can be utilized to avoid critical business interruption:
 
 * DRP, Disaster Recovery Plan (Emergency Response & Post-Disaster Recovey)
 
-  Assets:
+  * Backup & Off-Site Storage, 備援與異地備份
+
+  * Assets:
   
   (1) Data
   
